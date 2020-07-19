@@ -1,7 +1,7 @@
 ---
 name: Game Crash
 about: My gamed crashed.
-title: ''
+title: '[Game Crash]'
 labels: ''
 assignees: ''
 

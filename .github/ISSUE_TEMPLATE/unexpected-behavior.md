@@ -1,13 +1,15 @@
 ---
 name: Unexpected behavior
 about: A function didn't behave as expected
-title: ''
+title: '[Unexpected Behavior]'
 labels: ''
 assignees: ''
 
 ---
 
-## Before doing such issue, please make sure you're using the latest version of the game.
+<!---
+Before doing such issue, please make sure you're using the latest version of the game.
+-->
 
 **What you're using**
 
