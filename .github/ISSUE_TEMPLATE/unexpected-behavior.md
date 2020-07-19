@@ -1,7 +1,7 @@
 ---
 name: Unexpected behavior
 about: A function didn't behave as expected
-title: '[Unexpected Behavior]'
+title: '[Unexpected Behavior] ADD TITLE HERE'
 labels: ''
 assignees: ''
 
