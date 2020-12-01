@@ -1,6 +1,9 @@
-# OutFox
+# Project OutFox
 
 The Bug Reporting Repository for OutFox Alpha Builds
+
+![GitHub all releases](https://img.shields.io/github/downloads/TeamRizu/OutFox/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.5/total)
 
 We will be hosting our Releases here to help with Microsoft Defender SmartScreen.
 
