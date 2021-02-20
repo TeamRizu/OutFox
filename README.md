@@ -5,8 +5,6 @@ The Bug Reporting Repository for OutFox Alpha Builds
 ![GitHub all releases](https://img.shields.io/github/downloads/TeamRizu/OutFox/total)
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total)
 
-![GitHub release (latest by SemVer and asset including pre-releases)](https://img.shields.io/github/downloads-pre/TeamRizu/OutFox/latest/Stepmania-Outfox-Alpha-4.9.6-MacOS-M1-date-20201216.dmg)
-
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.6/total)
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.5/total)
 
