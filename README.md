@@ -7,6 +7,15 @@ The Bug Reporting Repository for OutFox Alpha Builds
 
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.6/total)
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.5/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.1/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.0HF/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.5/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.2/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.1/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.0-Final/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.6.0-rc3/total)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.6.0-final/total)
+
 
 ### Before making any issue, [PLEASE READ OUR FAQ](https://projectmoon.dance/faq). 
 
