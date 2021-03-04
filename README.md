@@ -3,7 +3,20 @@
 The Bug Reporting Repository for OutFox Alpha Builds
 
 ![GitHub all releases](https://img.shields.io/github/downloads/TeamRizu/OutFox/total)
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.5/total)
+
+Version | OutFox
+:------------ | :-------------
+latest | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total)
+4.9.6 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.6/total)
+4.9.2 - 4.9.5 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.5/total) 
+4.9.1 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.1/total) 
+4.9.0 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.0HF/total) 
+4.8.5 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.5/total)
+4.8.2 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.2/total)
+4.8.1 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.1/total)
+4.8.0 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.0-Final/total)
+4.6.0-RC3 | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.6.0-rc3/total)
+4.6.0-final | ![GitHub release (latest by date)](https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.6.0-final/total)
 
 ### Before making any issue, [PLEASE READ OUR FAQ](https://projectmoon.dance/faq). 
 
