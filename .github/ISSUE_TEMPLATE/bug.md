@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Something weird is happening.
-title: '[BUG] ADD TITLE HERE'
+title: "[BUG] ADD TITLE HERE"
 labels: ''
 assignees: ''
 

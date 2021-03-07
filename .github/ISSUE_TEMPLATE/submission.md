@@ -1,7 +1,7 @@
 ---
 name: Submission
 about: You want to submit something.
-title: '[Submission] ADD TITLE HERE'
+title: "[Submission] ADD TITLE HERE"
 labels: ''
 assignees: ''
 

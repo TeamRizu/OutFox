@@ -1,7 +1,7 @@
 ---
 name: Nitpick
 about: Something isn't exactly how it should be.
-title: '[Nitpick] ADD TITLE HERE'
+title: "[Nitpick] ADD TITLE HERE"
 labels: ''
 assignees: ''
 

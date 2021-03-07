@@ -1,11 +1,16 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: '[Feature Request] ADD TITLE HERE'
-labels: ''
+title: "[Feature Request] ADD TITLE HERE"
+labels: Feature Request
 assignees: ''
 
 ---
+
+<!-- READ THIS: We got a discussion page now, if you're doing feature request and publish under issue, you'll be moved, please make feature requests on discussions under feature request category https://github.com/TeamRizu/OutFox/discussions -->
+
+
+
 
 **Is your feature request related to a problem? Please describe.**
 
