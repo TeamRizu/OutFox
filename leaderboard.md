@@ -1,3 +1,5 @@
+# Leaderboard
+
 User | Points | Last Update From Issue | Should be
 :------------ | :------------- | :------------- | :-------------
 [PCBoyGames](https://github.com/PCBoyGames) | 111 | #76 | Bug Reaper
@@ -66,18 +68,34 @@ paraph | 3 | N/A | Bug Reporter
 [eudes](https://github.com/eudes) | 1 | #211 | Bug Reporter
 [TacvicomGN](https://github.com/TacvicomGN) | 0 | #14 | Bug Reporter
 [TheUnknownPerson](https://github.com/TheUnknownPerson) | 0 | #8 | Bug Reporter
+---
 
+## Ranks
+Rank | Requirement 
+:------------ | :-------------
+Bug Reporter | 0 points
+But Catcher | 5 points
+Bug Maniac | 15 points
+Bug Nightmare | 30 points
+Bug Reaper | 60 points
+Bug Squasher | Find bugs in Alpha Testers Stage
+Bug Banned | Issue with "Habbit Hole" Label
+
+Bug Squasher and Bug banned, requires you to be a member in our [Discord Server](https://discord.gg/cN4TjgQdcA)
+---
 
 ## Users that are not in our Discord will have their name with an *
 
 How it works: 
 
 1. Make an valid issue and wait for it to be labeled.
-2. Based on the labels, you'll get your points here
+2. Based on the [labels](https://github.com/TeamRizu/OutFox/labels), you'll get your points here
 3. Based on the number of points you'll be ranked from Bug Reporter to Bug Reaper
-4. If you're a member in our [Discord Server](https://discord.gg/cN4TjgQdcA) you'll get the roles based on your rank, if you have a rank here but does not have in our Discord server, then we don't know who you are and should contact our moderators.
+4. If you're a member in our [Discord Server](https://discord.gg/cN4TjgQdcA) you'll get the roles based on your rank, if you have a rank here but does not have in our [Discord Server](https://discord.gg/cN4TjgQdcA), then we don't know who you are and should contact our moderators.
 
-Issues will be ignored if they have the following labels:
+It is also possible to gain points by events that occurs outside of issues, such as reports made inside of our [Discord Server](https://discord.gg/cN4TjgQdcA)
+
+## Issues will be ignored if they have the following labels:
 
 ° Awaiting Answer From Reporter
 
@@ -96,3 +114,21 @@ Issues will be ignored if they have the following labels:
 ° Not a Bug!
 
 ° Will Not Fix
+
+## The following labels won't count as points even if the issue is valid:
+
+° Fix in Testing
+
+° Help Wanted
+
+° In Progress
+
+° Investigating
+
+° Low Priority/ Medium Priority
+
+° Question
+
+° Solved!
+
+° Upstream Pull request
