@@ -49,7 +49,7 @@ User | Points | Last Update From Issue | Should be
 [*robertvalik](https://github.com/robertvalik) | 3 | #195 | Bug Reporter
 [*aryoadhi](https://github.com/aryoadhi) | 3 | #226 | Bug Reporter
 [DanielRotwind](https://github.com/DanielRotwind) | 3 | #52 | Bug Reporter
-paraph | 3 | N/A | Bug Reporter
+[paraph](https://github.com/paraphrohn) | 3 | N/A | Bug Reporter
 [pucgenie](https://github.com/pucgenie) | 2 | #138 | Bug Reporter
 [NekoIncardine](https://github.com/NekoIncardine) | 2 | #157 | Bug Reporter
 [SheepyChris](https://github.com/SheepyChris) | 2 | #172 | Bug Reporter
