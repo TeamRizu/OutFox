@@ -2,17 +2,17 @@
 
 User | Points | Last Update From Issue | Should be
 :------------ | :------------- | :------------- | :-------------
-[PCBoyGames](https://github.com/PCBoyGames) | 111 | #76 | Bug Reaper
+[PCBoyGames](https://github.com/PCBoyGames) | 120 | #292 | Bug Reaper
 [Mr. ThatKid](https://github.com/MrThatKid) | 58 | #285 | Bug Nightmare
 [Haley Halcyon](https://github.com/JapanYoshi) | 50 | #123 | Bug Nightmare
 [Scraticus](https://github.com/Scraticus) | 49 | #275 | Bug Nightmare
 [Moru Zerinho6](https://github.com/moruzerinho6) | 24 | #73 | Bug Maniac
+[Engine_Machiner](https://github.com/EngineMachiner) | 22 | #294 | Bug Maniac
 [AngledLuffa](https://github.com/AngledLuffa) | 20 | #137 | Bug Maniac
 [shockdude](https://github.com/shockdude) | 20 | #212 | Bug Maniac
 [*SilentTempest83](https://github.com/SilentTempest83) | 19 | #220 | Bug Maniac
-[Engine_Machiner](https://github.com/EngineMachiner) | 18 | #176 | Bug Maniac
+[48productions](https://github.com/48productions) | 18 | #293 | Bug Maniac
 [SHRMP0](https://github.com/SHRMP0) | 17 | #210 | Bug Maniac
-[48productions](https://github.com/48productions) | 14 | #218 | Bug Catcher
 [Kaede573](https://github.com/Kaede573) | 14 | #227 | Bug Catcher
 [*navaroli](https://github.com/navaroli) | 14 | #189 | Bug Catcher
 [natano](https://github.com/natano) | 13 | #179 | Bug Catcher
