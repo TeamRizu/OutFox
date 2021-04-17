@@ -6,13 +6,13 @@ User | Points | Last Update From Issue | Should be
 [Mr. ThatKid](https://github.com/MrThatKid) | 58 | #285 | Bug Nightmare
 [Haley Halcyon](https://github.com/JapanYoshi) | 50 | #123 | Bug Nightmare
 [Scraticus](https://github.com/Scraticus) | 49 | #275 | Bug Nightmare
-[Moru Zerinho6](https://github.com/moruzerinho6) | 24 | #73 | Bug Maniac
+[Moru Zerinho6](https://github.com/moruzerinho6) | 30 | #298 | Bug Nightmare
 [Engine_Machiner](https://github.com/EngineMachiner) | 22 | #294 | Bug Maniac
 [AngledLuffa](https://github.com/AngledLuffa) | 20 | #137 | Bug Maniac
 [shockdude](https://github.com/shockdude) | 20 | #212 | Bug Maniac
 [*SilentTempest83](https://github.com/SilentTempest83) | 19 | #220 | Bug Maniac
 [48productions](https://github.com/48productions) | 18 | #293 | Bug Maniac
-[SHRMP0](https://github.com/SHRMP0) | 17 | #210 | Bug Maniac
+[SHRMP0](https://github.com/SHRMP0) | 20 | #305 | Bug Maniac
 [Kaede573](https://github.com/Kaede573) | 14 | #227 | Bug Catcher
 [*navaroli](https://github.com/navaroli) | 14 | #189 | Bug Catcher
 [natano](https://github.com/natano) | 13 | #179 | Bug Catcher
@@ -22,12 +22,14 @@ User | Points | Last Update From Issue | Should be
 [*Chaz6](https://github.com/Chaz6) | 9 | #33 | Bug Catcher
 [*JustinLove](https://github.com/JustinLove) | 8 | #38 | Bug Catcher
 [Mothman](https://github.com/void-v4) | 8 | #34 | Bug Catcher
+[*DracoOfZeradaith](https://github.com/DracoOfZeradaith) | 8 | #295 | Bug Catc her
+[*christianyvdo](https://github.com/christianyvdo) | 7 | #296 | Bug Catcher
 [ArcticFqx](https://github.com/ArcticFqx) | 7 | #36 | Bug Catcher
 [*GinJones](https://github.com/GinJones) | 7 | #56 | Bug Catcher
 [*animusyosho](https://github.com/animusyosho) | 7 | #18 | Bug Catcher
 [LightningSkunk](https://github.com/LightningSkunk) | 7 | #75 | Bug Catcher
 [*bibusdax](https://github.com/bibusdax) | 6 | #21 | Bug Catcher
-[Joehuu](https://github.com/Joehuu) | 6 | #160 | Bug Catcher
+[Joehuu](https://github.com/Joehuu) | 12 | #297 | Bug Catcher
 [kellykato](https://github.com/kellykato) | 6 | #215 | Bug Catcher
 [jummy0](https://github.com/jummy0) | 5 | #116 | Bug Catcher
 [*LionHardt544](https://github.com/LionHardt544) | 5 | #282 | Bug Catcher
@@ -41,7 +43,7 @@ User | Points | Last Update From Issue | Should be
 [snil4](https://github.com/snil4) | 4 | #216 | Bug Reporter
 [geoff10e](https://github.com/geoff10e) | 4 | #222 | Bug Reporter
 [*Coolmarve](https://github.com/Coolmarve) | 4 | #198 | Bug Reporter
-[Gabrimax98](https://github.com/Gabrimax98) | 3 | #180 | Bug Reporter
+[Gabrimax98](https://github.com/Gabrimax98) | 8 | #299 | Bug Catcher
 [AppleArcade120](https://github.com/AppleArcade120) | 3 | #188 | Bug Reporter
 [Jubo88](https://github.com/Jubo88) | 3 | #29 | Bug Reporter
 [*neowzeo](https://github.com/neowzeo) | 3 | #81 | Bug Reporter
