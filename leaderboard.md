@@ -22,7 +22,7 @@ User | Points | Last Update From Issue | Should be
 [*Chaz6](https://github.com/Chaz6) | 9 | #33 | Bug Catcher
 [*JustinLove](https://github.com/JustinLove) | 8 | #38 | Bug Catcher
 [Mothman](https://github.com/void-v4) | 8 | #34 | Bug Catcher
-[*DracoOfZeradaith](https://github.com/DracoOfZeradaith) | 8 | #295 | Bug Catc her
+[*DracoOfZeradaith](https://github.com/DracoOfZeradaith) | 8 | #295 | Bug Catcher
 [*christianyvdo](https://github.com/christianyvdo) | 7 | #296 | Bug Catcher
 [ArcticFqx](https://github.com/ArcticFqx) | 7 | #36 | Bug Catcher
 [*GinJones](https://github.com/GinJones) | 7 | #56 | Bug Catcher
