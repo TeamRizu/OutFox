@@ -10,13 +10,14 @@ User | Points | Last Update From Issue | Should be
 [Engine_Machiner](https://github.com/EngineMachiner) | 22 | #294 | Bug Maniac
 [AngledLuffa](https://github.com/AngledLuffa) | 20 | #137 | Bug Maniac
 [shockdude](https://github.com/shockdude) | 20 | #212 | Bug Maniac
+[SHRMP0](https://github.com/SHRMP0) | 20 | #305 | Bug Maniac
 [*SilentTempest83](https://github.com/SilentTempest83) | 19 | #220 | Bug Maniac
 [48productions](https://github.com/48productions) | 18 | #293 | Bug Maniac
-[SHRMP0](https://github.com/SHRMP0) | 20 | #305 | Bug Maniac
 [Kaede573](https://github.com/Kaede573) | 14 | #227 | Bug Catcher
 [*navaroli](https://github.com/navaroli) | 14 | #189 | Bug Catcher
 [natano](https://github.com/natano) | 13 | #179 | Bug Catcher
 [*JavaJeremy](https://github.com/JavaJeremy) | 12 | #217 | Bug Catcher
+[Joehuu](https://github.com/Joehuu) | 12 | #297 | Bug Catcher
 [waiei](https://github.com/waiei) | 11 | #315 | Bug Catcher
 [Sudospective](https://github.com/Sudospective) | 10 | #83 | Bug Catcher
 [DinsFire64](https://github.com/DinsFire64) | 10 | #208 | Bug Catcher
@@ -32,7 +33,6 @@ User | Points | Last Update From Issue | Should be
 [LightningSkunk](https://github.com/LightningSkunk) | 7 | #75 | Bug Catcher
 [*PachiSystems](https://github.com/PachiSystems) | 7 | #312 | Bug Catcher
 [*bibusdax](https://github.com/bibusdax) | 6 | #21 | Bug Catcher
-[Joehuu](https://github.com/Joehuu) | 12 | #297 | Bug Catcher
 [kellykato](https://github.com/kellykato) | 6 | #215 | Bug Catcher
 [jummy0](https://github.com/jummy0) | 5 | #116 | Bug Catcher
 [*LionHardt544](https://github.com/LionHardt544) | 5 | #282 | Bug Catcher
