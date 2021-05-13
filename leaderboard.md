@@ -34,6 +34,7 @@ User | Points | Last Update From Issue | Should be
 [*PachiSystems](https://github.com/PachiSystems) | 7 | #312 | Bug Catcher
 [*bibusdax](https://github.com/bibusdax) | 6 | #21 | Bug Catcher
 [kellykato](https://github.com/kellykato) | 6 | #215 | Bug Catcher
+[The-Kilted-Canuck](https://github.com/The-Kilted-Canuck) | 6 | #314 | Bug Catcher
 [jummy0](https://github.com/jummy0) | 5 | #116 | Bug Catcher
 [*LionHardt544](https://github.com/LionHardt544) | 5 | #282 | Bug Catcher
 [JustMoneko](https://github.com/JustMoneko) | 5 | #124 | Bug Catcher
@@ -46,7 +47,6 @@ User | Points | Last Update From Issue | Should be
 [snil4](https://github.com/snil4) | 4 | #216 | Bug Reporter
 [geoff10e](https://github.com/geoff10e) | 4 | #222 | Bug Reporter
 [*Coolmarve](https://github.com/Coolmarve) | 4 | #198 | Bug Reporter
-[The-Kilted-Canuck](https://github.com/The-Kilted-Canuck) | 6 | #314 | Bug Catcher
 [AppleArcade120](https://github.com/AppleArcade120) | 3 | #188 | Bug Reporter
 [Jubo88](https://github.com/Jubo88) | 3 | #29 | Bug Reporter
 [*neowzeo](https://github.com/neowzeo) | 3 | #81 | Bug Reporter
