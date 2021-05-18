@@ -8,17 +8,18 @@ User | Points | Last Update From Issue | Should be
 [Scraticus](https://github.com/Scraticus) | 49 | #275 | Bug Nightmare
 [Moru Zerinho6](https://github.com/moruzerinho6) | 33 | #311 | Bug Nightmare
 [Engine_Machiner](https://github.com/EngineMachiner) | 22 | #294 | Bug Maniac
+[48productions](https://github.com/48productions) | 22 | #293 | Bug Maniac
+[SHRMP0](https://github.com/SHRMP0) | 22 | #340 | Bug Maniac
 [AngledLuffa](https://github.com/AngledLuffa) | 20 | #137 | Bug Maniac
 [shockdude](https://github.com/shockdude) | 20 | #212 | Bug Maniac
-[SHRMP0](https://github.com/SHRMP0) | 20 | #305 | Bug Maniac
 [*SilentTempest83](https://github.com/SilentTempest83) | 19 | #220 | Bug Maniac
-[48productions](https://github.com/48productions) | 18 | #293 | Bug Maniac
+[JavaJeremy](https://github.com/JavaJeremy) | 19 | #324 | Bug Maniac
+[Joehuu](https://github.com/Joehuu) | 16 | #297 | Bug Maniac
 [Kaede573](https://github.com/Kaede573) | 14 | #227 | Bug Catcher
 [*navaroli](https://github.com/navaroli) | 14 | #189 | Bug Catcher
 [natano](https://github.com/natano) | 13 | #179 | Bug Catcher
-[*JavaJeremy](https://github.com/JavaJeremy) | 12 | #217 | Bug Catcher
-[Joehuu](https://github.com/Joehuu) | 12 | #297 | Bug Catcher
 [waiei](https://github.com/waiei) | 11 | #315 | Bug Catcher
+[jack5github](https://github.com/jack5github) | 11 | #331 | Bug Catcher
 [Sudospective](https://github.com/Sudospective) | 10 | #83 | Bug Catcher
 [DinsFire64](https://github.com/DinsFire64) | 10 | #208 | Bug Catcher
 [*Chaz6](https://github.com/Chaz6) | 9 | #33 | Bug Catcher
@@ -55,6 +56,7 @@ User | Points | Last Update From Issue | Should be
 [*aryoadhi](https://github.com/aryoadhi) | 3 | #226 | Bug Reporter
 [DanielRotwind](https://github.com/DanielRotwind) | 3 | #52 | Bug Reporter
 [paraph](https://github.com/paraphrohn) | 3 | N/A | Bug Reporter
+[*oyakawa](https://github.com/oyakawa) | 3 | #336 | Bug Reporter
 [pucgenie](https://github.com/pucgenie) | 2 | #138 | Bug Reporter
 [NekoIncardine](https://github.com/NekoIncardine) | 2 | #157 | Bug Reporter
 [SheepyChris](https://github.com/SheepyChris) | 2 | #172 | Bug Reporter
@@ -67,10 +69,12 @@ User | Points | Last Update From Issue | Should be
 [*Emilovesdoubles](https://github.com/Emilovesdoubles) | 2 | #102 | Bug Reporter
 [*Gladstone2412](https://github.com/Gladstone2412) | 2 | #46 | Bug Reporter
 [*eewokee](https://github.com/eewokee) | 2 | #196 | Bug Reporter
+[*GravityEcho](https://github.com/GravityEcho) | 2 | #339 | Bug Reporter
 [EscapeNumber001](https://github.com/EscapeNumber001) | 1 | #15 | Bug Reporter
 [selrahc13](https://github.com/selrahc13) | 1 | #16 | Bug Reporter
 [KaZo75](https://github.com/KaZo75) | 1 | #193 | Bug Reporter
 [eudes](https://github.com/eudes) | 1 | #211 | Bug Reporter
+[*germaniums](https://github.com/germaniums) | 1 | #321 | Bug Reporter
 [TacvicomGN](https://github.com/TacvicomGN) | 0 | #14 | Bug Reporter
 [TheUnknownPerson](https://github.com/TheUnknownPerson) | 0 | #8 | Bug Reporter
 ---
