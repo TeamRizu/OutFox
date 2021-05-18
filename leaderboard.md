@@ -83,12 +83,12 @@ User | Points | Last Update From Issue | Should be
 Rank | Requirement 
 :------------ | :-------------
 Bug Reporter | 0 points
-But Catcher | 5 points
+Bug Catcher | 5 points
 Bug Maniac | 15 points
 Bug Nightmare | 30 points
 Bug Reaper | 60 points
 Bug Squasher | Find bugs in Alpha Testers Stage
-Bug Banned | Issue with "Habbit Hole" Label
+Bug Banned | Issue with "Rabbit Hole" Label
 
 Bug Squasher and Bug banned, requires you to be a member in our [Discord Server](https://discord.gg/cN4TjgQdcA)
 ---
