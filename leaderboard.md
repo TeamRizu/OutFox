@@ -7,11 +7,11 @@ User | Points | Last Update From Issue | Should be
 [Haley Halcyon](https://github.com/JapanYoshi) | 50 | #123 | Bug Nightmare
 [Scraticus](https://github.com/Scraticus) | 49 | #275 | Bug Nightmare
 [Moru Zerinho6](https://github.com/moruzerinho6) | 33 | #311 | Bug Nightmare
+[SHRMP0](https://github.com/SHRMP0) | 25 | #343 | Bug Maniac
+[shockdude](https://github.com/shockdude) | 24 | #345 | Bug Maniac
 [Engine_Machiner](https://github.com/EngineMachiner) | 22 | #294 | Bug Maniac
 [48productions](https://github.com/48productions) | 22 | #293 | Bug Maniac
-[SHRMP0](https://github.com/SHRMP0) | 22 | #340 | Bug Maniac
 [AngledLuffa](https://github.com/AngledLuffa) | 20 | #137 | Bug Maniac
-[shockdude](https://github.com/shockdude) | 20 | #212 | Bug Maniac
 [*SilentTempest83](https://github.com/SilentTempest83) | 19 | #220 | Bug Maniac
 [JavaJeremy](https://github.com/JavaJeremy) | 19 | #324 | Bug Maniac
 [Joehuu](https://github.com/Joehuu) | 16 | #297 | Bug Maniac
@@ -22,25 +22,36 @@ User | Points | Last Update From Issue | Should be
 [jack5github](https://github.com/jack5github) | 11 | #331 | Bug Catcher
 [Sudospective](https://github.com/Sudospective) | 10 | #83 | Bug Catcher
 [DinsFire64](https://github.com/DinsFire64) | 10 | #208 | Bug Catcher
+[*DarkBahamut162](https://github.com/DarkBahamut162) | 9 | #353 | Bug Catcher
 [*Chaz6](https://github.com/Chaz6) | 9 | #33 | Bug Catcher
+[*Casuallynoted](https://github.com/Casuallynoted) | 8 | #366 | Bug Catcher
+[*Sylvia van Os](https://github.com/TheLastProject) | 8 | #351 | Bug Catcher
 [*JustinLove](https://github.com/JustinLove) | 8 | #38 | Bug Catcher
 [Mothman](https://github.com/void-v4) | 8 | #34 | Bug Catcher
 [Gabrimax98](https://github.com/Gabrimax98) | 8 | #299 | Bug Catcher
 [*DracoOfZeradaith](https://github.com/DracoOfZeradaith) | 8 | #295 | Bug Catcher
+[*Renan Guilherme](https://github.com/japareaggae) | 7 | #360 | Bug Catcher
+[cpguy5089](https://github.com/cpguy5089) | 7 | #356 | Bug Catcher
 [*christianyvdo](https://github.com/christianyvdo) | 7 | #296 | Bug Catcher
 [ArcticFqx](https://github.com/ArcticFqx) | 7 | #36 | Bug Catcher
 [*GinJones](https://github.com/GinJones) | 7 | #56 | Bug Catcher
 [*animusyosho](https://github.com/animusyosho) | 7 | #18 | Bug Catcher
 [LightningSkunk](https://github.com/LightningSkunk) | 7 | #75 | Bug Catcher
 [*PachiSystems](https://github.com/PachiSystems) | 7 | #312 | Bug Catcher
+[*alsalkeld](https://github.com/alsalkeld) | 6 | #365 | Bug Catcher
+[Ksempac](https://github.com/Ksempac) | 6 | #359 | Bug Catcher
 [*bibusdax](https://github.com/bibusdax) | 6 | #21 | Bug Catcher
 [kellykato](https://github.com/kellykato) | 6 | #215 | Bug Catcher
 [The-Kilted-Canuck](https://github.com/The-Kilted-Canuck) | 6 | #314 | Bug Catcher
+[*TRRESTGHGYTCFTGBCXSZD](https://github.com/TRRESTGHGYTCFTGBCXSZD) | 5 | #355 | Bug Catcher
+[bcdefg123](https://github.com/bcdefg123) | 5 | #352 | Bug Catcher
 [jummy0](https://github.com/jummy0) | 5 | #116 | Bug Catcher
 [*LionHardt544](https://github.com/LionHardt544) | 5 | #282 | Bug Catcher
 [JustMoneko](https://github.com/JustMoneko) | 5 | #124 | Bug Catcher
 [ListenerJubatus](https://github.com/ListenerJubatus) | 5 | #161 | Bug Catcher
+[rxhfcy](https://github.com/rxhfcy) | 5 | #347 | Bug Catcher
 [TakeWalker](https://github.com/TakeWalker) | 4 | #7 | Bug Reporter
+[*KirbyJoe](https://github.com/KirbyJoe) | 4 | #349 | Bug Reporter
 [treier57lol](https://github.com/treier57lol) | 4 | #9 | Bug Reporter
 [*igormclven](https://github.com/igormclven) | 4 | #153 | Bug Reporter
 [*TheFireRed](https://github.com/TheFireRed) | 4 | #152 | Bug Reporter
