@@ -3,13 +3,13 @@
 User | Points | Last Update From Issue | Should be
 :------------ | :------------- | :------------- | :-------------
 [PCBoyGames](https://github.com/PCBoyGames) | 120 | #292 | Bug Reaper
-[Mr. ThatKid](https://github.com/MrThatKid) | 58 | #285 | Bug Nightmare
-[Haley Halcyon](https://github.com/JapanYoshi) | 50 | #123 | Bug Nightmare
+[MrThatKid](https://github.com/MrThatKid) | 58 | #285 | Bug Nightmare
+[JapanYoshi](https://github.com/JapanYoshi) | 50 | #123 | Bug Nightmare
 [Scraticus](https://github.com/Scraticus) | 49 | #275 | Bug Nightmare
-[Moru Zerinho6](https://github.com/moruzerinho6) | 33 | #311 | Bug Nightmare
+[moruzerinho6](https://github.com/moruzerinho6) | 33 | #311 | Bug Nightmare
 [SHRMP0](https://github.com/SHRMP0) | 25 | #343 | Bug Maniac
 [shockdude](https://github.com/shockdude) | 24 | #345 | Bug Maniac
-[Engine_Machiner](https://github.com/EngineMachiner) | 22 | #294 | Bug Maniac
+[EngineMachiner](https://github.com/EngineMachiner) | 22 | #294 | Bug Maniac
 [48productions](https://github.com/48productions) | 22 | #293 | Bug Maniac
 [AngledLuffa](https://github.com/AngledLuffa) | 20 | #137 | Bug Maniac
 [*SilentTempest83](https://github.com/SilentTempest83) | 19 | #220 | Bug Maniac
@@ -25,12 +25,12 @@ User | Points | Last Update From Issue | Should be
 [*DarkBahamut162](https://github.com/DarkBahamut162) | 9 | #353 | Bug Catcher
 [*Chaz6](https://github.com/Chaz6) | 9 | #33 | Bug Catcher
 [*Casuallynoted](https://github.com/Casuallynoted) | 8 | #366 | Bug Catcher
-[*Sylvia van Os](https://github.com/TheLastProject) | 8 | #351 | Bug Catcher
+[*TheLastProject](https://github.com/TheLastProject) | 8 | #351 | Bug Catcher
 [*JustinLove](https://github.com/JustinLove) | 8 | #38 | Bug Catcher
 [Mothman](https://github.com/void-v4) | 8 | #34 | Bug Catcher
 [Gabrimax98](https://github.com/Gabrimax98) | 8 | #299 | Bug Catcher
 [*DracoOfZeradaith](https://github.com/DracoOfZeradaith) | 8 | #295 | Bug Catcher
-[*Renan Guilherme](https://github.com/japareaggae) | 7 | #360 | Bug Catcher
+[*japareaggae](https://github.com/japareaggae) | 7 | #360 | Bug Catcher
 [cpguy5089](https://github.com/cpguy5089) | 7 | #356 | Bug Catcher
 [*christianyvdo](https://github.com/christianyvdo) | 7 | #296 | Bug Catcher
 [ArcticFqx](https://github.com/ArcticFqx) | 7 | #36 | Bug Catcher
@@ -66,7 +66,7 @@ User | Points | Last Update From Issue | Should be
 [*robertvalik](https://github.com/robertvalik) | 3 | #195 | Bug Reporter
 [*aryoadhi](https://github.com/aryoadhi) | 3 | #226 | Bug Reporter
 [DanielRotwind](https://github.com/DanielRotwind) | 3 | #52 | Bug Reporter
-[paraph](https://github.com/paraphrohn) | 3 | N/A | Bug Reporter
+[paraphrohn](https://github.com/paraphrohn) | 3 | N/A | Bug Reporter
 [*oyakawa](https://github.com/oyakawa) | 3 | #336 | Bug Reporter
 [pucgenie](https://github.com/pucgenie) | 2 | #138 | Bug Reporter
 [NekoIncardine](https://github.com/NekoIncardine) | 2 | #157 | Bug Reporter
