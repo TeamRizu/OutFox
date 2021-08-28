@@ -26,6 +26,10 @@
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.9HF3">4.9.9HF3<a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.9HF3/total"></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.8">4.9.8<a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.8/total"></td>
   </tr>
