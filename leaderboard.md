@@ -12,7 +12,7 @@ User | Points | Last Update From Issue | Should be
 [EngineMachiner](https://github.com/EngineMachiner) | 27 | #413 | Bug Maniac
 [SHRMP0](https://github.com/SHRMP0) | 25 | #343 | Bug Maniac
 [shockdude](https://github.com/shockdude) | 24 | #345 | Bug Maniac
-[48productions](https://github.com/48productions) | 24 | #293 | Bug Maniac
+[48productions](https://github.com/48productions) | 24 | #429 | Bug Maniac
 [Joehuu](https://github.com/Joehuu) | 23 | #394 | Bug Maniac
 [AngledLuffa](https://github.com/AngledLuffa) | 20 | #137 | Bug Maniac
 [*SilentTempest83](https://github.com/SilentTempest83) | 19 | #220 | Bug Maniac
