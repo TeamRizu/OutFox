@@ -1,0 +1,19 @@
+name: Nitpick
+description: Something isn't exactly how it should be.
+title: "[Nitpick] ADD TITLE HERE"
+
+body:
+  - type: textarea
+    attributes:
+      label: Give an example of what is wrong
+      placeholder: |
+        Type here what is wrong or/with pictures.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Give an example of what it should look like
+      placeholder: |
+        Type here what is wrong or/with pictures.
+    validations:
+      required: true

@@ -1,0 +1,100 @@
+name: Bug
+description: Something weird is happening.
+title: "[BUG] ADD TITLE HERE"
+labels: BUG
+
+body:
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+      - label: I have searched the existing issues and none matched.
+        required: true
+  - type: markdown
+    attributes:
+      value: |
+        # **System Information**
+  - type: input
+    id: OS
+    attributes:
+      label: Operating System
+      description: What OS are you playing the game on?
+    validations:
+      required: true
+  - type: input
+    id: CPU
+    attributes:
+      label: CPU
+      description: Type the CPU name your computer is using. If you are unsure, leave this blank.
+  - type: input
+    id: GPU
+    attributes:
+      label: GPU
+      description: What GPU are you using to play? If you are unsure, leave this blank.
+  - type: input
+    id: Storage
+    attributes:
+      label: Storage
+      description: Type information about your storage
+  - type: markdown
+    attributes:
+      value: |
+        # **General OutFox Information**
+  - type: dropdown
+    id: version
+    attributes:
+      label: Game Version
+      description: What version of Project OutFox are you playing on?
+      options:
+        - 4.10.0
+        - 4.9.10
+        - 4.9.9HF3
+        - 4.9.9HF2
+        - 4.9.9HF
+        - 4.9.9
+        - 4.9.8
+        - 4.9.7GG
+        - 4.9.7
+        - 4.9.6
+        - 4.9.5
+        - 4.9.1
+        - 4.9.0HF
+        - 4.8.5
+        - 4.8.2
+        - 4.8.1
+        - 4.8.0
+        - 4.6.0
+        - 4.6.0 RC3
+        - 4.6.0 RC2
+        - 4.6.0 RC1
+    validations:
+      required: true
+  - type: textarea
+    id: Problem
+    attributes:
+      label: Describe the problem
+      description: A clear and concise description of what is happening.
+    validations:
+      required: true
+  - type: textarea
+    id: Expected
+    attributes:
+      label: Describe what should happen
+      description: A clear and concise description of what you think should happen.
+  - type: markdown
+    attributes:
+      value: |
+        # **Logs and Additional Content**
+        #1. Go into the game folder
+        #2. Open the Logs folder
+        #3. Grab every file in there and post with the issue.
+        #4. Go back to the game folder, if there's an crashinfo.txt then send it too.
+
+        If you happen to play on Non-Portable mode, [check the location of your Contents folder](https://outfox.wiki/user-guide/config/folders/) to find it, and proceed with step #2.
+
+        You can also add any other context or screenshots here.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Log output

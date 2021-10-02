@@ -1,0 +1,21 @@
+name: Unexpected Behavior
+description: A function didn't behave as expected
+title: "[Unexpected Behavior] ADD TITLE HERE"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ***Before doing such issue, please make sure you're using the latest version of the game.***
+  - type: textarea
+    attributes:
+      label: What you're using
+      description: Explain what function you're using and what arguments you're giving.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected behaviour
+      description: Explain what you expected to happen or the function to return
+    validations:
+      required: true

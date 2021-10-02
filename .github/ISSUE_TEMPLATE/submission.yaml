@@ -1,0 +1,17 @@
+name: Submission
+description: You want to submit something.
+title: "[Submission] ADD TITLE HERE"
+
+body:
+  - type: textarea
+    attributes:
+      label: Contents of the submission below
+      placeholder: |
+        Place here the submission contents.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: If needed, an in depth explanation of your submission, what is it for.
+      placeholder: |
+        Type here about your submission.
