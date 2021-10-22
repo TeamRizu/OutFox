@@ -1,29 +1,29 @@
 # Project OutFox
 
-Languages: EN | [PT-BR](./international/PT-BR.md)
+Linguagens: [EN](../README.md) | PT-BR
 
 <p>
     <a title="Website" href="https://projectmoon.dance" target="_blank"><img alt="Logo" src="https://cdn.discordapp.com/attachments/684883542303571973/817940924726378556/project-outfox-logo.png"></a>
-    <p align="center">The Bug Reporting Repository for Project OutFox Alpha Builds</p>
+    <p align="center">O Repositorio de Bugs para versões Alpha de Project OutFox</p>
     <p align="center">
-        <a title="Latest release" href="https://github.com/TeamRizu/OutFox/releases/latest" target="_blank"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TeamRizu/OutFox"></a>
-        <a title="All releases" target="_blank" href="https://github.com/TeamRizu/OutFox/releases"><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/total"></a>
+        <a title="Ultimo lançamento" href="https://github.com/TeamRizu/OutFox/releases/latest" target="_blank"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TeamRizu/OutFox"></a>
+        <a title="Todos lançamentos" target="_blank" href="https://github.com/TeamRizu/OutFox/releases"><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/total"></a>
         <a title="Reddit" href="https://www.reddit.com/r/OutFox/" target="_blank">
-        <img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/OutFox?style=flat-square"></a>
+        <img alt="Seguidores no Subreddit" src="https://img.shields.io/reddit/subreddit-subscribers/OutFox?style=flat-square"></a>
         <a title="Twitter" href="https://twitter.com/projectoutfox" target="_blank">
         <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/projectoutfox?style=flat-square"></a>
-        <a title="Supported Languages" href="https://github.com/Tiny-Foxes/OutFox-Translations" target="_blank"><img alt="Languages" src="https://img.shields.io/badge/languages-8-brightgreen"></a>
+        <a title="Linguagens Suportadas" href="https://github.com/Tiny-Foxes/OutFox-Translations" target="_blank"><img alt="Languages" src="https://img.shields.io/badge/languages-8-brightgreen"></a>
         <a title="Discord" href="https://discord.gg/cN4TjgQdcA" target="_blank">
         <img alt="Discord Server" src="https://img.shields.io/discord/422897054386225173"></a>
-        <a title="Closed Issues" href="https://github.com/TeamRizu/OutFox/issues" target="_blank"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/TeamRizu/OutFox"></a>
+        <a title="Issues fechdos" href="https://github.com/TeamRizu/OutFox/issues" target="_blank"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/TeamRizu/OutFox"></a>
     </p>
     <table style="width:100%">
   <tr>
-    <th>Version</th>
+    <th>Versão</th>
     <th>OutFox</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">latest</a></td>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">Ultima Versão</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
   </tr>
   <tr>
@@ -85,8 +85,8 @@ Languages: EN | [PT-BR](./international/PT-BR.md)
 </table>
 </p>
 
-### Before opening a new issue, [PLEASE READ OUR FAQ](https://projectmoon.dance/faq). 
+### Antes de abrir um issue, [LEIA NOSSO FAQ](https://projectmoon.dance/faq). (Em inglês) 
 
-We will be hosting our Releases here to help with Microsoft Defender SmartScreen.
+Vamos compartilhar cada versão aqui para ajudar com o SmartScreen do Microsoft Defender
 
-See how many points each user has in the [Bug Hunter Leaderboard](./leaderboard.md).
+Veja quantos pontos cada usuário tem no [Placar de Pontos de Caçador de Bugs](./leaderboard.md). (Em inglês)
