@@ -1,10 +1,10 @@
 # Project OutFox
 
-Linguagens: [EN](../README.md) | PT-BR
+Idiomas: [EN](../README.md) | PT-BR
 
 <p>
     <a title="Website" href="https://projectmoon.dance" target="_blank"><img alt="Logo" src="https://cdn.discordapp.com/attachments/684883542303571973/817940924726378556/project-outfox-logo.png"></a>
-    <p align="center">O Repositorio de Bugs para versões Alpha de Project OutFox</p>
+    <p align="center">O Repositório de Bugs para versões Alpha do Project OutFox</p>
     <p align="center">
         <a title="Ultimo lançamento" href="https://github.com/TeamRizu/OutFox/releases/latest" target="_blank"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TeamRizu/OutFox"></a>
         <a title="Todos lançamentos" target="_blank" href="https://github.com/TeamRizu/OutFox/releases"><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/total"></a>
@@ -87,6 +87,6 @@ Linguagens: [EN](../README.md) | PT-BR
 
 ### Antes de abrir um issue, [LEIA NOSSO FAQ](https://projectmoon.dance/faq). (Em inglês) 
 
-Vamos compartilhar cada versão aqui para ajudar com o SmartScreen do Microsoft Defender
+Os releases são publicados e hospedados por aqui para ajudar com o SmartScreen do Microsoft Defender.
 
 Veja quantos pontos cada usuário tem no [Placar de Pontos de Caçador de Bugs](./leaderboard.md). (Em inglês)
