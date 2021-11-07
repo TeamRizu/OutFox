@@ -13,9 +13,10 @@ Languages: EN | [PT-BR](./international/PT-BR.md)
         <a title="Twitter" href="https://twitter.com/projectoutfox" target="_blank">
         <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/projectoutfox?style=flat-square"></a>
         <a title="Supported Languages" href="https://github.com/Tiny-Foxes/OutFox-Translations" target="_blank"><img alt="Languages" src="https://img.shields.io/badge/languages-8-brightgreen"></a>
-        <a title="Discord" href="https://discord.gg/cN4TjgQdcA" target="_blank">
-        <img alt="Discord Server" src="https://img.shields.io/discord/422897054386225173"></a>
         <a title="Closed Issues" href="https://github.com/TeamRizu/OutFox/issues" target="_blank"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/TeamRizu/OutFox"></a>
+    </p>
+    <p align="center">
+        <a href="https://discord.gg/cN4TjgQdcA"><img src="https://img.shields.io/discord/422897054386225173.svg?style=flat&color=7289DA&label=Project%20OutFox%20Community&logo=Discord"/></a>
     </p>
     <table style="width:100%">
   <tr>
