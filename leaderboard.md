@@ -1,10 +1,9 @@
 # Leaderboard
-
+ 
 User | Points | Last Update From Issue | Should be
 :------------ | :------------- | :------------- | :-------------
 [PCBoyGames](https://github.com/PCBoyGames) | 120 | #292 | Bug Reaper
 [MrThatKid](https://github.com/MrThatKid) | 68 | #373 | Bug Reaper
-[JapanYoshi](https://github.com/JapanYoshi) | 50 | #123 | Bug Nightmare
 [Scraticus](https://github.com/Scraticus) | 49 | #275 | Bug Nightmare
 [*DarkBahamut162](https://github.com/DarkBahamut162) | 42 | #411 | Bug Banned
 [moruzerinho6](https://github.com/moruzerinho6) | 38 | #402 | Bug Nightmare
