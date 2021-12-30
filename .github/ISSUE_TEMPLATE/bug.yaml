@@ -47,6 +47,7 @@ body:
       label: Game Version
       description: What version of Project OutFox are you playing on?
       options:
+        - 4.11.0
         - 4.10.0
         - 4.9.10
         - 4.9.9HF3
@@ -67,7 +68,6 @@ body:
         - 4.6.0
         - 4.6.0 RC3
         - 4.6.0 RC2
-        - 4.6.0 RC1
     validations:
       required: true
   - type: textarea
