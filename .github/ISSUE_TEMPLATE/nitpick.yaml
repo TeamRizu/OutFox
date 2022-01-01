@@ -3,6 +3,28 @@ description: Something isn't exactly how it should be.
 title: "[Nitpick] ADD TITLE HERE"
 
 body:
+  - type: dropdown
+    id: gamemode
+    attributes:
+      label: Game Mode
+      description: What Game Mode are you playing on?
+      options:
+        - dance
+        - pump
+        - smx
+        - techno
+        - be-mu
+        - po-mu
+        - gddm
+        - gdgf
+        - gh
+        - taiko
+        - para
+        - kbx
+        - ez2
+        - ds3ddx
+        - maniax
+        - kickbox
   - type: textarea
     attributes:
       label: Give an example of what is wrong

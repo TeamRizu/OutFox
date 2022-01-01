@@ -27,6 +27,28 @@ body:
     attributes:
       label: Screenshots/Videos
       description: If possible, take screenshots or record the crash happening.
+  - type: dropdown
+    id: gamemode
+    attributes:
+      label: Game Mode
+      description: What Game Mode are you playing on?
+      options:
+        - dance
+        - pump
+        - smx
+        - techno
+        - be-mu
+        - po-mu
+        - gddm
+        - gdgf
+        - gh
+        - taiko
+        - para
+        - kbx
+        - ez2
+        - ds3ddx
+        - maniax
+        - kickbox  
   - type: textarea
     attributes:
       label: Additional Information

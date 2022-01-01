@@ -70,6 +70,35 @@ body:
         - 4.6.0 RC3
     validations:
       required: true
+  - type: dropdown
+    id: gamemode
+    attributes:
+      label: Game Mode
+      description: What Game Mode are you playing on?
+      options:
+        - dance
+        - pump
+        - smx
+        - techno
+        - be-mu
+        - po-mu
+        - gddm
+        - gdgf
+        - gh
+        - taiko
+        - para
+        - kbx
+        - ez2
+        - ds3ddx
+        - maniax
+        - kickbox
+    validations:
+      required: true
+  - type: textarea
+    id: theme
+    attributes:
+      label: Theme
+      description: Please let us know what theme (and version) you are using.          
   - type: textarea
     id: Problem
     attributes:

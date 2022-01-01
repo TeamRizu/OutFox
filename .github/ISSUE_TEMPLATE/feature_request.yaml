@@ -4,6 +4,33 @@ description: Suggest an idea for this project
 labels: Feature Request
 
 body:
+  - type: dropdown
+    id: game-mode
+    attributes:
+      label: Please Select the game mode your feature request is about.
+      description: Select Dance Based or Controller Based if it is for those types, or All if it affects all modes. 
+      options:
+        - dance
+        - pump
+        - smx
+        - techno
+        - be-mu
+        - po-mu
+        - gddm
+        - gdgf
+        - gh
+        - taiko
+        - para
+        - kbx
+        - ez2
+        - ds3ddx
+        - maniax
+        - kickbox
+        - Dance Based Game Modes
+        - Controller Based Game Modes
+        - All Game Modes
+    validations:
+      required: true  
   - type: textarea
     attributes:
       label: Is your feature request related to a problem?
