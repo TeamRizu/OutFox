@@ -23,9 +23,17 @@ Idiomas: [EN](../README.md) | PT-BR
     <th>OutFox</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">Ultima Versão</a></td>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">Versão atual</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.11.0">4.11.0<a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.11.0/total"></td>
+  </tr>    
+  <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.10.0">4.10.0<a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.10.0/total"></td>
+  </tr>      
   <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.10">4.9.10<a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.10/total"></td>
