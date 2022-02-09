@@ -98,7 +98,7 @@ Languages: EN | [PT-BR](./international/PT-BR.md)
 </table>
 </p>
 
-### Before opening a new issue, [PLEASE READ OUR FAQ](https://projectmoon.dance/faq). 
+### Before opening a new issue, [PLEASE READ OUR FAQ](https://projectoutfox.com/faq). 
 
 We will be hosting our Releases here to help with Microsoft Defender SmartScreen.
 
