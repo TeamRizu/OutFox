@@ -47,6 +47,7 @@ body:
       label: Game Version
       description: What version of Project OutFox are you playing on?
       options:
+        - 4.13.0
         - 4.12.0
         - 4.11.0
         - 4.10.0
