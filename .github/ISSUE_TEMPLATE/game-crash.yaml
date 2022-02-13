@@ -48,7 +48,8 @@ body:
         - ez2
         - ds3ddx
         - maniax
-        - kickbox  
+        - kickbox
+        - stepstage
   - type: textarea
     attributes:
       label: Additional Information
