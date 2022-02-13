@@ -3,7 +3,7 @@
 Idiomas: [EN](../README.md) | PT-BR
 
 <p>
-    <a title="Website" href="https://projectmoon.dance" target="_blank"><img alt="Logo" src="https://cdn.discordapp.com/attachments/684883542303571973/817940924726378556/project-outfox-logo.png"></a>
+    <a title="Website" href="https://projectoutfox.dance" target="_blank"><img alt="Logo" src="https://cdn.discordapp.com/attachments/684883542303571973/817940924726378556/project-outfox-logo.png"></a>
     <p align="center">O Repositório de Bugs para versões Alpha do Project OutFox</p>
     <p align="center">
         <a title="Ultimo lançamento" href="https://github.com/TeamRizu/OutFox/releases/latest" target="_blank"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TeamRizu/OutFox"></a>
@@ -25,6 +25,10 @@ Idiomas: [EN](../README.md) | PT-BR
   <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">Versão atual</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.12.0">4.12.0<a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.12.0/total"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.11.0">4.11.0<a></td>
