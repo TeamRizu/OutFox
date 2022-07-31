@@ -47,6 +47,7 @@ body:
       label: Game Version
       description: What version of Project OutFox are you playing on?
       options:
+        - 4.16.0HF
         - 4.15.0
         - 4.14.0
         - 4.13.0
@@ -77,6 +78,7 @@ body:
       label: Game Mode
       description: What Game Mode are you playing on?
       options:
+        - I was using the editor!
         - dance
         - pump
         - smx
@@ -92,6 +94,7 @@ body:
         - ez2
         - ds3ddx
         - maniax
+        - stepstage
         - kickbox
     validations:
       required: true
