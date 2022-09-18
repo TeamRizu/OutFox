@@ -14,6 +14,7 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
         <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/projectoutfox?style=flat-square"></a>
         <a title="Supported Languages" href="https://github.com/Tiny-Foxes/OutFox-Translations" target="_blank"><img alt="Languages" src="https://img.shields.io/badge/languages-8-brightgreen"></a>
         <a title="Closed Issues" href="https://github.com/TeamRizu/OutFox/issues" target="_blank"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/TeamRizu/OutFox"></a>
+        <a title="OutFox Wiki" href="https://outfox.wiki/" target="_blank"><img alt="OutFox Wiki" src="https://img.shields.io/badge/OutFox%20Wiki-Read-blue"></a>
     </p>
     <p align="center">
         <a href="https://discord.gg/cN4TjgQdcA"><img src="https://img.shields.io/discord/422897054386225173.svg?style=flat&color=7289DA&label=Project%20OutFox%20Community&logo=Discord"/></a>
@@ -72,3 +73,9 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
 We will be hosting our Releases here to help with Microsoft Defender SmartScreen.
 
 See how many points each user has in the [Bug Hunter Leaderboard](./leaderboard.md).
+
+### Reporting Pre-Alpha Builds
+
+If you want to report bugs found using Pre-Alpha (Testing) Builds, such as Alpha V, please use our [Alpha-Reports](https://github.com/TeamRizu/Alpha-Reports) repository.
+
+If you do not respect this rule, your issue will either be deleted or moved.
