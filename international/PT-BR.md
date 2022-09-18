@@ -24,17 +24,37 @@ Idiomas: [EN](../README.md) | PT-BR | [ES](ES.md)
     <th>OutFox</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">Versão atual</a></td>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">latest</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF4.16.0">4.16.0</a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.16.0/total"></td>
+  </tr>    
+  <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF4.15.1">4.15.1</a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.15.1/total"></td>
+  </tr>    
+  <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF4.15.0">4.15.0</a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.15.0/total"></td>
+  </tr>    
+  <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF4.14.1">4.14.1</a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.14.1/total"></td>
+  </tr>    
+  <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.14.0">4.14.0<a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.14.0/total"></td>
+  </tr>        
+  <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.13.0">4.13.0<a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.13.0/total"></td>
-  </tr>
+  </tr>      
   <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.12.0">4.12.0<a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.12.0/total"></td>
-  </tr>
+  </tr>     
   <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.11.0">4.11.0<a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.11.0/total"></td>
@@ -43,62 +63,6 @@ Idiomas: [EN](../README.md) | PT-BR | [ES](ES.md)
     <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.10.0">4.10.0<a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.10.0/total"></td>
   </tr>      
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.10">4.9.10<a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.10/total"></td>
-  </tr>  
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.9HF3">4.9.9HF3<a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.9HF3/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.8">4.9.8<a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.8/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.7GG">4.9.7GG<a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.7GG/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.6">4.9.6<a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.6/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.5">4.9.2 - 4.9.5</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.5/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.1">4.9.1</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.1/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.9.0HF">4.9.0</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.9.0HF/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.8.5">4.8.5</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.5/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.8.2">4.8.2</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.2/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.8.1">4.8.1</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.1/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.8.0-Final">4.8.0</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.8.0-Final/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.6.0-final">4.6.0-final</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.6.0-final/total"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/tag/OF4.6.0-rc3">4.6.0-RC3</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.6.0-rc3/total"></td>
-  </tr>
 </table>
 </p>
 
@@ -107,3 +71,9 @@ Idiomas: [EN](../README.md) | PT-BR | [ES](ES.md)
 Os releases são publicados e hospedados por aqui para ajudar com o SmartScreen do Microsoft Defender.
 
 Veja quantos pontos cada usuário tem no [Placar de Pontos de Caçador de Bugs](./leaderboard.md). (Em inglês)
+
+### Reportar erros de Pre-Alpha
+
+Se você quer reportar bugs encontrados em versões Pre-Alpha, tal como Alpha V, use [Alpha-Reports](https://github.com/TeamRizu/Alpha-Reports).
+
+Se você não seguir essa regra, o seu issue vai ser deletado ou movido.
