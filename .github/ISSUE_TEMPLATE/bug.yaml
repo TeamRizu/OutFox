@@ -47,6 +47,7 @@ body:
       label: Game Version
       description: What version of Project OutFox are you playing on?
       options:
+        - 4.18.0
         - 4.17.0
         - 4.16.0HF
         - 4.15.0
@@ -90,6 +91,7 @@ body:
         - gdgf
         - gh
         - taiko
+        - bongo
         - para
         - kbx
         - ez2
