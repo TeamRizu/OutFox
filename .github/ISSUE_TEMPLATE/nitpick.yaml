@@ -19,12 +19,14 @@ body:
         - gdgf
         - gh
         - taiko
+        - bongo
         - para
         - kbx
         - ez2
         - ds3ddx
         - maniax
         - kickbox
+        - stepstage
   - type: textarea
     attributes:
       label: Give an example of what is wrong
