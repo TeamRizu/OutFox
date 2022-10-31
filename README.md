@@ -29,6 +29,10 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF4.18.0">0.4.18</a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.18.0/total"></td>
+  </tr>   
+  <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/OF4.17.0">0.4.17</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.17.0/total"></td>
   </tr>     
