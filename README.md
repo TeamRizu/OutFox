@@ -25,6 +25,10 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
     <th>OutFox</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF5.0.0-rc040">OF5.0.0-rc040</a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF5.0.0-rc040/total"></td>
+  </tr>  
+  <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">latest</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
   </tr>
