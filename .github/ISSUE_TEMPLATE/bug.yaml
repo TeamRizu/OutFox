@@ -47,6 +47,8 @@ body:
       label: Game Version
       description: What version of Project OutFox are you playing on?
       options:
+        - 4.19.1
+        - 4.19.0
         - 4.18.1
         - 4.18.0
         - 4.17.0
@@ -57,22 +59,6 @@ body:
         - 4.12.0
         - 4.11.0
         - 4.10.0
-        - 4.9.10
-        - 4.9.9HF3
-        - 4.9.9HF2
-        - 4.9.9HF
-        - 4.9.9
-        - 4.9.8
-        - 4.9.7GG
-        - 4.9.7
-        - 4.9.6
-        - 4.9.5
-        - 4.9.1
-        - 4.9.0HF
-        - 4.8.5
-        - 4.8.2
-        - 4.8.1
-        - 4.8.0
     validations:
       required: true
   - type: dropdown
