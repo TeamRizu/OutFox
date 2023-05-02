@@ -30,7 +30,7 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/OOF5.0.0-041">0.5.0-041</a></td>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF5.0.0-041">0.5.0-041</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF5.0.0-041/total"></td>
   </tr> 
   <tr>
