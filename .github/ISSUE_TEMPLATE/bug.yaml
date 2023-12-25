@@ -47,6 +47,7 @@ body:
       label: Game Version
       description: What version of Project OutFox are you playing on?
       options:
+        - 5.0.0-042
         - 5.0.0-041
         - 4.19.1
         - 4.19.0
@@ -70,6 +71,7 @@ body:
       options:
         - I was using the editor!
         - dance
+        - groove
         - pump
         - smx
         - techno
@@ -80,13 +82,14 @@ body:
         - gh
         - taiko
         - bongo
+        - rb
         - para
         - kbx
         - ez2
         - ds3ddx
         - maniax
-        - stepstage
         - kickbox
+        - stepstage
     validations:
       required: true
   - type: textarea
