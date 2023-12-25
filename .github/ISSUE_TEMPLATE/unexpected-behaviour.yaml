@@ -31,6 +31,7 @@ body:
         - ds3ddx
         - maniax
         - kickbox
+        - stepstage
     validations:
       required: true
   - type: textarea
