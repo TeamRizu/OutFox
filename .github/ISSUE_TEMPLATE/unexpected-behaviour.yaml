@@ -13,6 +13,7 @@ body:
       description: What Game Mode are you playing on?
       options:
         - dance
+        - groove
         - pump
         - smx
         - techno
@@ -22,6 +23,8 @@ body:
         - gdgf
         - gh
         - taiko
+        - bongo
+        - rb
         - para
         - kbx
         - ez2
