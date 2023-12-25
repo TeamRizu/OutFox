@@ -11,6 +11,7 @@ body:
       description: Select Dance Based or Controller Based if it is for those types, or All if it affects all modes. 
       options:
         - dance
+        - groove
         - pump
         - smx
         - techno
@@ -21,12 +22,14 @@ body:
         - gh
         - taiko
         - bongo
+        - rb
         - para
         - kbx
         - ez2
         - ds3ddx
         - maniax
         - kickbox
+        - stepstage
         - Dance Based Game Modes
         - Controller Based Game Modes
         - All Game Modes
