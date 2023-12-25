@@ -24,7 +24,6 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
     <th>Version</th>
     <th>OutFox</th>
   </tr>
-  OF5.0.0-041
   <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/latest">latest</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
@@ -34,8 +33,8 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF5.0.0-041/total"></td>
   </tr> 
   <tr>
-    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF0.4.18.1">0.4.18.1</a></td>
-    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/0.4.18.1/total"></td>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF4.19.0">0.4.19</a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/4.19.0/total"></td>
   </tr> 
   <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/OF0.4.18">0.4.18</a></td>
