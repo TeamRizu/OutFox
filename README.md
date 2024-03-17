@@ -3,7 +3,7 @@
 Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
 
 <p>
-    <a title="Website" href="https://projectoutfox.com" target="_blank"><img alt="Logo" src="https://cdn.discordapp.com/attachments/684883542303571973/817940924726378556/project-outfox-logo.png"></a>
+    <a title="Website" href="https://projectoutfox.com" target="_blank"><img alt="Logo" src="https://projectoutfox.com/themes/moondance/assets/images/outfox-front.png"></a>
     <p align="center">The Bug Reporting Repository for Project OutFox Alpha Builds</p>
     <p align="center">
         <a title="Latest release" href="https://github.com/TeamRizu/OutFox/releases/latest" target="_blank"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TeamRizu/OutFox"></a>
