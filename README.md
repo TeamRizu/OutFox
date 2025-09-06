@@ -4,7 +4,7 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
 
 <p>
     <a title="Website" href="https://projectoutfox.com" target="_blank"><img alt="Logo" src="https://projectoutfox.com/themes/moondance/assets/images/outfox-front.png"></a>
-    <p align="center">The Bug Reporting Repository for Project OutFox Alpha Builds</p>
+    <p align="center">The Bug Reporting Repository for Project OutFox Development Builds</p>
     <p align="center">
         <a title="Latest release" href="https://github.com/TeamRizu/OutFox/releases/latest" target="_blank"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TeamRizu/OutFox"></a>
         <a title="All releases" target="_blank" href="https://github.com/TeamRizu/OutFox/releases"><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/total"></a>
@@ -29,9 +29,13 @@ Languages: EN | [PT-BR](./international/PT-BR.md) | [ES](./international/ES.md)
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/latest/total"></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/TeamRizu/OutFox/releases/OF5.0.0-042">OF5.0.0-042</a></td>
+    <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF5.0.0-042/total"></td>
+  </tr> 
+  <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/OF5.0.0-041">0.5.0-041</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF5.0.0-041/total"></td>
-  </tr> 
+  </tr>       
   <tr>
     <td><a href="https://github.com/TeamRizu/OutFox/releases/OF4.19.0">0.4.19</a></td>
     <td><img src="https://img.shields.io/github/downloads/TeamRizu/OutFox/OF4.19.0/total"></td>
